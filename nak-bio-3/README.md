@@ -23,3 +23,4 @@ The cart adds $7.99 demo shipping below $100 and free demo shipping at $100 or m
 
 ## Important
 This project intentionally does not enable live payments or actual fulfillment of peptide/drug products. It is designed to demonstrate a real checkout workflow in a controlled classroom test environment.
+Deployment update
