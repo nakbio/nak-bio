@@ -1,0 +1,1 @@
+import ProductGrid from '../../components/ProductGrid';export default function Shop(){return <main className="wrap"><div className="pagehead"><h1>Research Catalog</h1><p className="sub">Classroom demonstration inventory.</p></div><ProductGrid/></main>}

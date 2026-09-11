@@ -1,0 +1,4 @@
+import './globals.css';
+import Link from 'next/link';
+export const metadata={title:'Nak.bio | Research Marketplace Demo',description:'Business-class e-commerce demo with Stripe test checkout'};
+export default function Layout({children}){return <html lang="en"><body><nav className="nav"><div className="wrap navin"><Link className="brand" href="/">NAK<span>.BIO</span></Link><div className="links"><Link href="/shop">Shop</Link><Link href="/about">About</Link><Link href="/faq">FAQ</Link><Link href="/contact">Contact</Link><Link className="btn" href="/cart">Cart</Link></div></div></nav>{children}<footer className="footer"><div className="wrap"><b>NAK.BIO</b> · Business-class demonstration storefront. Test transactions only.<br/>Products shown are for a classroom e-commerce demonstration and are not offered for human use or real-world purchase.</div></footer></body></html>}

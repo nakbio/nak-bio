@@ -1,0 +1,1 @@
+export default function Contact(){return <main className="wrap"><div className="pagehead"><h1>Contact</h1></div><div className="prose"><p>For this classroom demonstration, contact: <b>support@nak.bio</b> (placeholder).</p></div></main>}
